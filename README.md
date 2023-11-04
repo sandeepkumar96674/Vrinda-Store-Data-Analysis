@@ -35,15 +35,18 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 
 
-## **Project Insight**
-
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+## **📈 Sample Insights 🧐**
 
 
+1. Gender-based Purchases: Women are more likely to buy compared to men (Approx. 65%) 👩‍🦰 > 👨
+2. Top Contributing States: The top three states in terms of sales in 2022 were Maharashtra, Karnataka, and Uttar Pradesh. 🥇🥈🥉
+3. Age and Gender Contribution: The adult age group (30-49 yrs) made the highest contribution (Approx. 50%) 👩‍🦰👨
+4. Sales Channels: Amazon, Flipkart, and Myntra channels are the primary contributors to maximum sales. 🛒🛍️
 
-## **Final Conclusion:**
 
-To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+## **🚀 Final Conclusion 📌:**
+
+To maximize sales in 2023:
+1. 🎯 Target women customers aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh.
+2. 💻 Ensure ads/offers/coupons are prominently available on Amazon, Flipkart, and Myntra.
+3. 📈 Focus on promoting or highlighting the product categories with the highest sales in 2022.
